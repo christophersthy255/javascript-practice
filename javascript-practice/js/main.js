@@ -6,3 +6,10 @@ function changeH1(){
     document.querySelector('body').style.color = 'red'
     document.querySelector('body').style.backgroundColor = 'Green'
 }
+// 1 comment
+/* multi
+    line
+    comment*/
+
+console.log('Christopher Sayathy')
+console.log('Steak')
